@@ -1,8 +1,8 @@
-x="""
-Hello charan!! 
-""""
+x="Hello charan!! "
+
 print(x)
 
+print("Hello pradeep!!!")
 
 #Below are Kiran code
 for i in range(10):
